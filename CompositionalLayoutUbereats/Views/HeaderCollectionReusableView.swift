@@ -3,7 +3,7 @@
 //  CompositionalLayoutBeginner
 //
 //  Created by IwasakIYuta on 2021/08/05.
-//
+// haguremon/CompositionalLayoutBeginnerの改良版
 
 import UIKit
 
