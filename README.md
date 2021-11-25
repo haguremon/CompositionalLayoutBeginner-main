@@ -6,7 +6,7 @@
 
 #### 何箇所か横にスクロールします
 
-<img src="https://user-images.githubusercontent.com/82577801/138562000-305c8617-f8d3-40a8-9ad5-0da31d98c5fa.png" width="33%">  <img src="https://user-images.githubusercontent.com/82577801/138561921-76ec28d7-33b3-48cf-89c4-638274e6c2b4.png" width="33%"> <img src="https://user-images.githubusercontent.com/82577801/138562083-96b2a054-7352-4533-8d97-da3ebe452181.png" width="33%">
+<img src="https://user-images.githubusercontent.com/82577801/138562000-305c8617-f8d3-40a8-9ad5-0da31d98c5fa.png" width="30%">  <img src="https://user-images.githubusercontent.com/82577801/138561921-76ec28d7-33b3-48cf-89c4-638274e6c2b4.png" width="30%"> <img src="https://user-images.githubusercontent.com/82577801/138562083-96b2a054-7352-4533-8d97-da3ebe452181.png" width="30%">
 
  
 ---------------------------------------------------------------------------
